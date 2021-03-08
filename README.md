@@ -1,6 +1,6 @@
 # dwi_flutter
 
-A new Flutter project.
+Ini tugas 1 saya
 
 ## Getting Started
 
